@@ -1,1 +1,1 @@
-Este es una prueba de como usar github
+este es una prueba de como guardar github en mi computadora
